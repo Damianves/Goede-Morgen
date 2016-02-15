@@ -1,0 +1,103 @@
+@media  screen and ( min-device-width:600px ) {
+	/*voor pc*/
+    body{
+	font-family: "arial";
+	color: white;
+	font-size: 60px;
+	text-shadow: 0px 1px 1px #000;
+}
+
+#container {
+	margin-bottom: 330px;
+    text-align: center;
+    margin-top: 0px;
+}
+
+#time{ 
+	margin-top:50px;
+	display:block;
+	text-align:center;
+}
+
+#good {
+	
+	display:block;
+	text-align:center;
+	margin-top:10px;
+}
+
+#txt{
+	font-size:50px;
+}
+
+div {
+    display: block;
+}
+
+body.morgen{
+	background-image:url("morning.png");
+	background-repeat:no-repeat;
+	margin:0px;
+}
+
+body.night{
+	background-image:url("evening.png");
+	background-repeat:no-repeat;
+	margin:0px;
+}
+
+body.middag{
+	background-image:url("afternoon.png");
+	margin:0px;
+	
+}
+
+body.night{
+	background-image:url("night.png");
+	background-repeat:no-repeat;
+	margin:0px;
+}
+
+h3{
+	font-size:20px;
+	text-align:right;
+	width:300px;
+	
+	margin-left:auto;
+	background-color:;
+}
+
+
+
+a{
+	color:white;
+	text-decoration:none;
+	
+}
+
+a:hover{
+	color:white;
+	text-decoration:underline;
+}
+	
+ul li {
+	display: inline;
+}
+
+ul{
+	background-color:black;
+	margin-bottom:0px;
+	margin-top:0px;
+	
+}
+
+li{
+	font-size:20px;
+}
+
+
+}
+
+
+/*http://9gag.com/gag/aGxKzVz
+http://9gag.com/gag/aDoRDzx
